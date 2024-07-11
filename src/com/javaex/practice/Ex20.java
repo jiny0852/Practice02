@@ -12,6 +12,13 @@ public class Ex20 {
 		System.out.print("알파벳 1글자(소문자)를 입력하세요\n알파벳 : ");
 		String a = sc.nextLine();
 		
+		switch (a) {
+			case "a":
+			
+		}
+		
+		
+		
 		if ( a.equals("a") || a.equals("e") || a.equals("i") 
 				|| a.equals("o") || a.equals("u") ) {
 			System.out.println("모음입니다");
